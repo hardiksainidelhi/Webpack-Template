@@ -8,3 +8,4 @@
 * image loaders : 
 ```npm install --save-dev html-loader```
 * live server plugin: ```npm install --save-dev webpack-dev-server```
+* webpack merge plugin : ```npm install --save-dev webpack-merge ```
